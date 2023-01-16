@@ -1,0 +1,1 @@
+/mnt/f/github/dotfiles/./.zshrc
