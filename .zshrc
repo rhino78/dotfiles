@@ -26,6 +26,21 @@ export PATH=$PATH:/usr/local/go/bin
 export PATH=$PATH:/usr/bin/clang
 export PATH=$PATH:/home/ryan/.local/bin
 export PATH=$PATH:/home/ryan/.local/lib/python3.6/site-packages
+
+declare -A pomo_options
+pomo_options["work"]="45"
+pomo_options["break"]="10"
+
+
+pomodoro () {
+    echo 'awesome pomodoro timer!'
+    echo 'we are about to' "$1" 'for:' ${pomo_options["$1"]} 'seconds'
+    echo 'happy working!'
+    timer ${pomo_options["$1"]}s
+}
+
+alias wo="pomodoro 'work'"
+alias br="pomodoro 'break'"
 # ZSH_TMUX_AUTOSTART=true
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -155,3 +170,4 @@ export NVM_DIR="/home/ryan/.nvm"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+alias luamake=/home/ryan/lua-language-server/3rd/luamake/luamake
