@@ -1,4 +1,6 @@
+
 window:
+  opacity: 0.8
 
   dimensions:
     columns: 175
@@ -31,6 +33,8 @@ window:
 #also FiraCode Nerd Font Mono
 #family: FiraCode Nerd Font Mono
 #    family: Source Code Pro for Powerline
+
+
 font:
   normal:
     family: FiraCode Nerd Font Mono
@@ -58,6 +62,7 @@ draw_bold_text_with_bright_colors: false
 # Use custom cursor colors. If true, display the cursor in the cursor.foreground
 # and cursor.background colors, otherwise invert the colors of the cursor.
 # custom_cursor_colors: true
+
 bell:
   animation: EaseOutExpo
   color: '0xffffff'
@@ -91,7 +96,7 @@ cursor:
   #   - ▇ Block
   #   - _ Underline
   #   - | Beam
-  style: Block
+  style: Beam
 
   # If this is `true`, the cursor will be rendered as a hollow box when the
   # window is not focused.
@@ -109,6 +114,7 @@ debug:
   # Keep the log file after quitting Alacritty.
   persistent_logging: false
 
+
   log_level: Debug
 
   # Print all received window events.
@@ -122,32 +128,6 @@ debug:
 # You can set shell.program to the path of your favorite shell, e.g. /bin/fish.
 # Entries in shell.args are passed unmodified as arguments to the shell.
 shell:
-  program: C:\Windows\System32\wsl.exe
-colors:
-  name: Ashes (light)
-  author: Chris Kempson
-  primary:
-    background: "#f3f4f5"
-    foreground: "#565e65"
-  cursor:
-    text: "#f3f4f5"
-    cursor: "#565e65"
-  normal:
-    black: "#1c2023"
-    red: "#c7ae95"
-    green: "#95c7ae"
-    yellow: "#aec795"
-    blue: "#ae95c7"
-    magenta: "#c795ae"
-    cyan: "#95aec7"
-    white: "#c7ccd1"
-  bright:
-    black: "#747c84"
-    red: "#c7ae95"
-    green: "#95c7ae"
-    yellow: "#aec795"
-    blue: "#ae95c7"
-    magenta: "#c795ae"
-    cyan: "#95aec7"
-    white: "#f3f4f5"
-theme: Ashes.light
+ program: "C:\\Windows\\System32\\wsl.exe"
+
+

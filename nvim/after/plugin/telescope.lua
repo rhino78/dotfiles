@@ -1,0 +1,5 @@
+local builtin = require('telescope.builtin')
+vim.keymap.set('n', '<leader>ff', builtin.find_files, {})
+vim.keymap.set('n', '<leader>fg', builtin.git_files, {})
+vim.keymap.set("n", "<leader>lg", ":Telescope live_grep<CR>", { silent = true })
+vim.keymap.set('n', '<leader>di', require('telescope.builtin').diagnostics, { desc = '[S]earch [D]iagnostics' })
