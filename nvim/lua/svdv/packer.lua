@@ -6,6 +6,7 @@
 return require('packer').startup(function(use)
 	-- Packer can manage itself
 	use 'wbthomason/packer.nvim'
+	use 'iamcco/markdown-preview.nvim'
 	use 'akinsho/toggleterm.nvim'
 	use 'simrat39/symbols-outline.nvim'
 	use {

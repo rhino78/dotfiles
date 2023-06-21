@@ -18,7 +18,7 @@ vim.keymap.set('n','<leader>ws', require('telescope.builtin').lsp_dynamic_worksp
 vim.keymap.set('n', 'K', vim.lsp.buf.hover, { desc = 'Hover Documentation'})
 vim.keymap.set('n', '<C-k>', vim.lsp.buf.signature_help, { desc = 'Signature Documentation'})
 
-
+-- ryan's keymaps for success
 vim.keymap.set("n", "<leader>vv", ":NvimTreeToggle<CR>", { silent = true })
 vim.keymap.set("n", "<leader>ps", ":PackerSync<CR>", { silent = true })
 vim.keymap.set("n", "<leader>t", ":ToggleTerm size=40 direction=horizontal<CR>")
