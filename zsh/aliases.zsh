@@ -2,9 +2,13 @@
 ## Aliases
 ##
 
+alias shavenas='sudo mount 192.168.2.200/volume1/Backups ShaveNAS'
+alias conf='cd /home/rhino/.config'
+alias hub='cd /home/rhino/github'
+alias ryan='ssh ryan@192.168.2.64'
+alias pi='ssh pi@192.168.2.66'
+alias ct='cargo tauri dev'
 alias run='pnpm run'
-alias conf='cd $HOME/.config'
-alias hub='cd /mnt/f/github/'
 alias c="clear"
 alias q="exit"
 alias cleanram="sudo sh -c 'sync; echo 3 > /proc/sys/vm/drop_caches'"

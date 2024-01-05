@@ -2,15 +2,20 @@
 ## PATH & ENV Var
 ##
 
+
+export SECRET="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"
+export QT_QPA_PLATFORM="wayland;xcb"
+
 export PNPM_HOME="$HOME/.local/share/pnpm"
 export PATH="$HOME/.spicetify:$PATH"
 export PATH="$PNPM_HOME:$PATH"
 export PATH="$HOME/.scripts:$PATH"
 export PATH="$HOME/.local/bin:$PATH"
 export PATH="$HOME/.cargo/bin:$PATH"
+export PATH="usr/bin/cssmodules-language-server:$PATH"
 export GPG_TTY="${TTY:-$(tty)}"
 
-export SUDO_PROMPT="passwd: "
+export SUDO_PROMPT="gimmie them passwords, bruh: "
 export TERMINAL="wezterm"
 export BROWSER="firefox"
 export VISUAL="nvim"
