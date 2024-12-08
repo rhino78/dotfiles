@@ -1,0 +1,6 @@
+2024/10/16-11:21:02.063 8271 Creating DB /home/rhino/.config/chromium/Default/IndexedDB/https_www.ultimate-guitar.com_0.indexeddb.leveldb since it was missing.
+2024/10/16-11:21:02.066 8271 Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_www.ultimate-guitar.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/16-11:21:23.904 8273 Level-0 table #5: started
+2024/10/16-11:21:23.905 8273 Level-0 table #5: 1052 bytes OK
+2024/10/16-11:21:23.907 8273 Delete type=0 #3
+2024/10/16-11:21:23.907 8271 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

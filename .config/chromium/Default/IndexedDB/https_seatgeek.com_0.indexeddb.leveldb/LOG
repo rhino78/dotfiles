@@ -1,0 +1,28 @@
+2024/11/19-10:51:43.610 19dfe2 Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_seatgeek.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/19-10:51:43.611 19dfe2 Recovering log #23
+2024/11/19-10:51:43.611 19dfe2 Reusing old log /home/rhino/.config/chromium/Default/IndexedDB/https_seatgeek.com_0.indexeddb.leveldb/000023.log 
+2024/11/19-10:51:43.616 19dfe3 Level-0 table #29: started
+2024/11/19-10:51:43.617 19dfe3 Level-0 table #29: 1360 bytes OK
+2024/11/19-10:51:43.618 19dfe3 Delete type=0 #23
+2024/11/19-10:51:43.618 19dfe3 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/19-10:51:44.334 19dff0 Level-0 table #31: started
+2024/11/19-10:51:44.335 19dff0 Level-0 table #31: 627 bytes OK
+2024/11/19-10:51:44.336 19dff0 Delete type=0 #28
+2024/11/19-10:51:44.337 19dfe3 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 468 : 1
+2024/11/19-10:51:44.337 19dfe3 Compacting 1@0 + 1@1 files
+2024/11/19-10:51:44.337 19dfe3 Generated table #32@0: 8 keys, 392 bytes
+2024/11/19-10:51:44.338 19dfe3 Compacted 1@0 + 1@1 files => 392 bytes
+2024/11/19-10:51:44.340 19dfe3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/19-10:51:44.340 19dfe3 Delete type=2 #31
+2024/11/19-10:51:44.340 19dfe3 Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 468 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/19-10:51:44.341 19dfe3 Level-0 table #34: started
+2024/11/19-10:51:44.341 19dfe3 Level-0 table #34: 493 bytes OK
+2024/11/19-10:51:44.343 19dfe3 Delete type=2 #29
+2024/11/19-10:51:44.343 19dfe3 Delete type=0 #30
+2024/11/19-10:51:44.343 19dfe2 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 495 : 0
+2024/11/19-10:51:44.343 19dfe2 Compacting 1@0 + 1@1 files
+2024/11/19-10:51:44.344 19dfe2 Generated table #35@0: 5 keys, 248 bytes
+2024/11/19-10:51:44.344 19dfe2 Compacted 1@0 + 1@1 files => 248 bytes
+2024/11/19-10:51:44.346 19dfe2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/19-10:51:44.346 19dfe2 Delete type=2 #34
+2024/11/19-10:51:44.346 19dfe2 Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 495 : 0 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)

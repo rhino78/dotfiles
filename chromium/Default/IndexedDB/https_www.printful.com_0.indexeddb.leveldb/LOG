@@ -1,0 +1,6 @@
+2024/11/16-10:01:25.199 a03f4 Creating DB /home/rhino/.config/chromium/Default/IndexedDB/https_www.printful.com_0.indexeddb.leveldb since it was missing.
+2024/11/16-10:01:25.201 a03f4 Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_www.printful.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/16-22:39:18.402 a03f5 Level-0 table #5: started
+2024/11/16-22:39:18.403 a03f5 Level-0 table #5: 855 bytes OK
+2024/11/16-22:39:18.404 a03f5 Delete type=0 #3
+2024/11/16-22:39:18.404 a03f5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

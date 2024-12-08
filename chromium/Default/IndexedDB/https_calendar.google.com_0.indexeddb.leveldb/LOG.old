@@ -1,0 +1,15 @@
+2024/12/06-11:28:40.772 3ccf2 Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/06-11:28:40.773 3ccf2 Recovering log #27
+2024/12/06-11:28:40.773 3ccf2 Reusing old log /home/rhino/.config/chromium/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/000027.log 
+2024/12/06-11:28:44.064 3ccf1 Level-0 table #32: started
+2024/12/06-11:28:44.066 3ccf1 Level-0 table #32: 983 bytes OK
+2024/12/06-11:28:44.067 3ccf1 Delete type=0 #27
+2024/12/06-11:28:44.067 3ccf1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/12/06-11:28:44.067 3ccf1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x05\x00o\x00p\x00t\x00i\x00n' @ 463 : 1
+2024/12/06-11:28:44.067 3ccf1 Compacting 1@1 + 1@2 files
+2024/12/06-11:28:44.068 3ccf1 Generated table #33@1: 56 keys, 1073 bytes
+2024/12/06-11:28:44.068 3ccf1 Compacted 1@1 + 1@2 files => 1073 bytes
+2024/12/06-11:28:44.070 3ccf1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/06-11:28:44.070 3ccf1 Delete type=2 #29
+2024/12/06-11:28:44.070 3ccf1 Delete type=2 #32
+2024/12/06-11:28:44.070 3ccf1 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x05\x00o\x00p\x00t\x00i\x00n' @ 463 : 1 .. (end); will stop at (end)

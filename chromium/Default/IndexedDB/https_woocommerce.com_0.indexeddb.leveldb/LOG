@@ -1,0 +1,6 @@
+2024/11/16-09:43:46.214 a0401 Creating DB /home/rhino/.config/chromium/Default/IndexedDB/https_woocommerce.com_0.indexeddb.leveldb since it was missing.
+2024/11/16-09:43:46.217 a0401 Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_woocommerce.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/16-09:44:03.726 a03f5 Level-0 table #5: started
+2024/11/16-09:44:03.727 a03f5 Level-0 table #5: 1456 bytes OK
+2024/11/16-09:44:03.729 a03f5 Delete type=0 #3
+2024/11/16-09:44:03.729 a03f5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

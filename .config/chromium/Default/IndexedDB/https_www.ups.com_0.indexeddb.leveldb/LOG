@@ -1,0 +1,6 @@
+2024/11/16-14:37:43.529 a03f4 Creating DB /home/rhino/.config/chromium/Default/IndexedDB/https_www.ups.com_0.indexeddb.leveldb since it was missing.
+2024/11/16-14:37:43.531 a03f4 Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_www.ups.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/16-14:38:21.565 a03f4 Level-0 table #5: started
+2024/11/16-14:38:21.566 a03f4 Level-0 table #5: 1370 bytes OK
+2024/11/16-14:38:21.567 a03f4 Delete type=0 #3
+2024/11/16-14:38:21.567 a03f4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

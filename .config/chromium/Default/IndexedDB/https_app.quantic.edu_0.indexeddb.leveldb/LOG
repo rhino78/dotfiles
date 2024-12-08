@@ -1,0 +1,15 @@
+2024/12/07-11:25:02.906 424d6 Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_app.quantic.edu_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/07-11:25:02.906 424d6 Recovering log #31
+2024/12/07-11:25:02.906 424d6 Reusing old log /home/rhino/.config/chromium/Default/IndexedDB/https_app.quantic.edu_0.indexeddb.leveldb/000031.log 
+2024/12/07-12:58:17.548 424d7 Level-0 table #36: started
+2024/12/07-12:58:17.549 424d7 Level-0 table #36: 209 bytes OK
+2024/12/07-12:58:17.552 424d7 Delete type=0 #31
+2024/12/07-12:58:17.552 424d7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/12/07-12:58:17.552 424d7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 90 : 1
+2024/12/07-12:58:17.552 424d7 Compacting 1@1 + 1@2 files
+2024/12/07-12:58:17.553 424d7 Generated table #37@1: 19 keys, 510 bytes
+2024/12/07-12:58:17.553 424d7 Compacted 1@1 + 1@2 files => 510 bytes
+2024/12/07-12:58:17.555 424d7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/07-12:58:17.555 424d7 Delete type=2 #33
+2024/12/07-12:58:17.555 424d7 Delete type=2 #36
+2024/12/07-12:58:17.555 424d7 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 90 : 1 .. (end); will stop at (end)

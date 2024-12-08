@@ -1,0 +1,7 @@
+2024/12/04-08:11:16.366 ba99 Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_www.walmart.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/04-08:11:16.366 ba99 Recovering log #3
+2024/12/04-08:11:16.366 ba99 Reusing old log /home/rhino/.config/chromium/Default/IndexedDB/https_www.walmart.com_0.indexeddb.leveldb/000003.log 
+2024/12/04-09:05:11.535 ba99 Level-0 table #5: started
+2024/12/04-09:05:11.536 ba99 Level-0 table #5: 4260 bytes OK
+2024/12/04-09:05:11.539 ba99 Delete type=0 #3
+2024/12/04-09:05:11.539 ba99 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

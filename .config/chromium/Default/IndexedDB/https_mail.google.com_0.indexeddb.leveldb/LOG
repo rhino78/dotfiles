@@ -1,0 +1,6 @@
+2024/12/08-10:50:12.625 6159f Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/08-10:50:12.626 6159f Recovering log #487
+2024/12/08-10:50:12.632 6159f Reusing old log /home/rhino/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000487.log 
+2024/12/08-10:50:15.129 6159e Level-0 table #493: started
+2024/12/08-10:50:15.148 6159e Level-0 table #493: 2857503 bytes OK
+2024/12/08-10:50:15.151 6159e Delete type=0 #487

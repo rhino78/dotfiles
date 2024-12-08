@@ -1,0 +1,7 @@
+2024/12/05-17:01:15.441 35402 Reusing MANIFEST /home/rhino/.config/chromium/Default/WebStorage/69/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/12/05-17:01:15.441 35402 Recovering log #3
+2024/12/05-17:01:15.442 35402 Reusing old log /home/rhino/.config/chromium/Default/WebStorage/69/IndexedDB/indexeddb.leveldb/000003.log 
+2024/12/05-21:13:31.484 35401 Level-0 table #5: started
+2024/12/05-21:13:31.486 35401 Level-0 table #5: 137854 bytes OK
+2024/12/05-21:13:31.488 35401 Delete type=0 #3
+2024/12/05-21:13:31.488 35401 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

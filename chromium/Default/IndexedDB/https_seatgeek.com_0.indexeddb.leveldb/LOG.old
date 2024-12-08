@@ -1,0 +1,51 @@
+2024/10/30-14:03:44.650 11a9ca Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_seatgeek.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/30-14:03:44.650 11a9ca Recovering log #11
+2024/10/30-14:03:44.650 11a9ca Reusing old log /home/rhino/.config/chromium/Default/IndexedDB/https_seatgeek.com_0.indexeddb.leveldb/000011.log 
+2024/10/30-14:03:44.650 11a9ca Delete type=2 #8
+2024/10/30-14:03:44.659 11a9d8 Level-0 table #16: started
+2024/10/30-14:03:44.660 11a9d8 Level-0 table #16: 1400 bytes OK
+2024/10/30-14:03:44.662 11a9d8 Delete type=0 #11
+2024/10/30-14:03:44.663 11a9cb Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 278 : 1
+2024/10/30-14:03:44.663 11a9cb Compacting 1@0 + 1@1 files
+2024/10/30-14:03:44.664 11a9cb Generated table #17@0: 40 keys, 829 bytes
+2024/10/30-14:03:44.664 11a9cb Compacted 1@0 + 1@1 files => 829 bytes
+2024/10/30-14:03:44.665 11a9cb compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/30-14:03:44.665 11a9cb Delete type=2 #16
+2024/10/30-14:03:44.666 11a9cb Manual compaction at level-0 from '\x00\x06\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 278 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/30-14:03:45.350 11a9d7 Level-0 table #19: started
+2024/10/30-14:03:45.351 11a9d6 Current memtable full; waiting...
+2024/10/30-14:03:45.351 11a9d7 Level-0 table #19: 619 bytes OK
+2024/10/30-14:03:45.353 11a9d7 Delete type=2 #13
+2024/10/30-14:03:45.353 11a9d7 Delete type=0 #15
+2024/10/30-14:03:45.353 11a9ca Level-0 table #21: started
+2024/10/30-14:03:45.354 11a9ca Level-0 table #21: 459 bytes OK
+2024/10/30-14:03:45.356 11a9ca Delete type=0 #18
+2024/10/30-14:03:45.356 11a9ca Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 364 : 0
+2024/10/30-14:03:45.356 11a9ca Compacting 2@0 + 1@1 files
+2024/10/30-14:03:45.357 11a9ca Generated table #22@0: 42 keys, 908 bytes
+2024/10/30-14:03:45.357 11a9ca Compacted 2@0 + 1@1 files => 908 bytes
+2024/10/30-14:03:45.359 11a9ca compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/30-14:03:45.359 11a9ca Delete type=2 #19
+2024/10/30-14:03:45.359 11a9ca Delete type=2 #21
+2024/10/30-14:03:45.359 11a9ca Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 364 : 0 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/30-14:03:45.359 11a9ca Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/30-14:03:47.364 11a9cb Level-0 table #24: started
+2024/10/30-14:03:47.365 11a9cb Level-0 table #24: 246 bytes OK
+2024/10/30-14:03:47.366 11a9cb Delete type=2 #17
+2024/10/30-14:03:47.366 11a9cb Delete type=0 #20
+2024/10/30-14:03:47.367 11a9cb Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x05\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 365 : 0
+2024/10/30-14:03:47.367 11a9cb Compacting 1@0 + 1@1 files
+2024/10/30-14:03:47.368 11a9cb Generated table #25@0: 43 keys, 888 bytes
+2024/10/30-14:03:47.368 11a9cb Compacted 1@0 + 1@1 files => 888 bytes
+2024/10/30-14:03:47.369 11a9cb compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/30-14:03:47.369 11a9cb Delete type=2 #22
+2024/10/30-14:03:47.369 11a9cb Delete type=2 #24
+2024/10/30-14:03:47.369 11a9cb Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x05\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 365 : 0 .. (end); will stop at (end)
+2024/10/30-14:03:47.369 11a9cb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\xc9\x16\x00h\x00t\x00t\x00p\x00s\x00_\x00s\x00e\x00a\x00t\x00g\x00e\x00e\x00k\x00.\x00c\x00o\x00m\x00_\x000\x00@\x001\x13\x00d\x00b\x009\x009\x003\x000\x00.\x006\x009\x007\x003\x000\x006\x004\x000\x002\x000\x007\x001' @ 227 : 0
+2024/10/30-14:03:47.369 11a9cb Compacting 1@1 + 1@2 files
+2024/10/30-14:03:47.370 11a9cb Generated table #26@1: 6 keys, 246 bytes
+2024/10/30-14:03:47.370 11a9cb Compacted 1@1 + 1@2 files => 246 bytes
+2024/10/30-14:03:47.372 11a9cb compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/30-14:03:47.372 11a9cb Delete type=2 #5
+2024/10/30-14:03:47.372 11a9cb Delete type=2 #25
+2024/10/30-14:03:47.372 11a9cb Manual compaction at level-1 from '\x00\x00\x00\x00\xc9\x16\x00h\x00t\x00t\x00p\x00s\x00_\x00s\x00e\x00a\x00t\x00g\x00e\x00e\x00k\x00.\x00c\x00o\x00m\x00_\x000\x00@\x001\x13\x00d\x00b\x009\x009\x003\x000\x00.\x006\x009\x007\x003\x000\x006\x004\x000\x002\x000\x007\x001' @ 227 : 0 .. (end); will stop at (end)

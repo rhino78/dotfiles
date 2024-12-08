@@ -1,0 +1,17 @@
+2024/11/20-16:29:01.005 20269b Creating DB /home/rhino/.config/chromium/Default/IndexedDB/https_www.acehardware.com_0.indexeddb.leveldb since it was missing.
+2024/11/20-16:29:01.008 20269b Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_www.acehardware.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/20-17:06:19.075 20269d Level-0 table #5: started
+2024/11/20-17:06:19.093 20269d Level-0 table #5: 736782 bytes OK
+2024/11/20-17:06:19.095 20269d Delete type=0 #3
+2024/11/20-17:36:20.142 20269c Level-0 table #7: started
+2024/11/20-17:36:20.157 20269c Level-0 table #7: 631096 bytes OK
+2024/11/20-17:36:20.159 20269c Delete type=0 #4
+2024/11/20-17:36:20.160 20269c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/11/20-17:36:20.160 20269c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01 \x03\x00\xe0\xe3\xbc\xbe4yB\x00\x01Q\x00a\x00c\x00e\x00-\x00i\x00m\x00a\x00g\x00e\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00a\x00c\x00e\x00h\x00a\x00r\x00d\x00w\x00a\x00r\x00e\x00.\x00c\x00o\x00m\x00/\x00_\x00m\x00z\x00b\x00l\x00a\x00n\x00k\x00.\x00g\x00i\x00f\x00?\x00r\x00=\x00P\x00J\x00U\x00D\x00E\x00R\x00M\x00q\x00L\x00E\x00K\x002\x00H\x00U\x00n\x00c\x00u\x00s\x009\x00T\x00f\x00Q' @ 82258 : 1
+2024/11/20-17:36:20.160 20269c Compacting 1@1 + 1@2 files
+2024/11/20-17:36:20.176 20269c Generated table #8@1: 330 keys, 38149 bytes
+2024/11/20-17:36:20.176 20269c Compacted 1@1 + 1@2 files => 38149 bytes
+2024/11/20-17:36:20.177 20269c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/20-17:36:20.177 20269c Delete type=2 #5
+2024/11/20-17:36:20.177 20269c Delete type=2 #7
+2024/11/20-17:36:20.178 20269c Manual compaction at level-1 from '\x00\x02\x01 \x03\x00\xe0\xe3\xbc\xbe4yB\x00\x01Q\x00a\x00c\x00e\x00-\x00i\x00m\x00a\x00g\x00e\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00a\x00c\x00e\x00h\x00a\x00r\x00d\x00w\x00a\x00r\x00e\x00.\x00c\x00o\x00m\x00/\x00_\x00m\x00z\x00b\x00l\x00a\x00n\x00k\x00.\x00g\x00i\x00f\x00?\x00r\x00=\x00P\x00J\x00U\x00D\x00E\x00R\x00M\x00q\x00L\x00E\x00K\x002\x00H\x00U\x00n\x00c\x00u\x00s\x009\x00T\x00f\x00Q' @ 82258 : 1 .. (end); will stop at (end)

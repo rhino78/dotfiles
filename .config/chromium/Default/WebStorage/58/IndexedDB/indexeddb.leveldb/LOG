@@ -1,0 +1,6 @@
+2024/10/27-14:22:30.305 8bbbb Creating DB /home/rhino/.config/chromium/Default/WebStorage/58/IndexedDB/indexeddb.leveldb since it was missing.
+2024/10/27-14:22:30.308 8bbbb Reusing MANIFEST /home/rhino/.config/chromium/Default/WebStorage/58/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/10/27-14:22:51.317 8bbbb Level-0 table #5: started
+2024/10/27-14:22:51.318 8bbbb Level-0 table #5: 82884 bytes OK
+2024/10/27-14:22:51.320 8bbbb Delete type=0 #3
+2024/10/27-14:22:51.320 8bbbb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

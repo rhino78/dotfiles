@@ -1,0 +1,3 @@
+audio.play_bitrate_non_metered_migrated=true
+connect.dial_devices="[{\"address\":\"192.168.2.241\",\"app_state\":\"MISSING\",\"created_timestamp\":1731519806,\"device_id\":\"d49baf2f-0967-348e-85b1-09c77f0fcd48\",\"dial_location_url\":\"http://192.168.2.241:60000/dd.xml\",\"display_name\":\"Ryan's 2nd TV\",\"last_seen\":1731525939,\"manufacturer\":\"AMZ\",\"model_name\":\"4K55N400A\",\"product_cap\":\"\",\"public_ip\":\"70.114.142.208\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"f8fce1784543\",\"port\":9,\"retries\":800}}]"
+app.player.volume=35233

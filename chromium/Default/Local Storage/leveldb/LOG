@@ -1,0 +1,22 @@
+2024/12/08-10:50:11.739 4 Reusing MANIFEST /home/rhino/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/12/08-10:50:11.744 4 Recovering log #991
+2024/12/08-10:50:11.745 4 Reusing old log /home/rhino/.config/chromium/Default/Local Storage/leveldb/000991.log 
+2024/12/08-10:50:45.310 5 Level-0 table #995: started
+2024/12/08-10:50:45.313 5 Level-0 table #995: 195398 bytes OK
+2024/12/08-10:50:45.315 5 Delete type=0 #991
+2024/12/08-10:50:45.316 5 Compacting 4@0 + 3@1 files
+2024/12/08-10:50:45.336 5 Generated table #996@0: 3780 keys, 2206371 bytes
+2024/12/08-10:50:45.365 5 Generated table #997@0: 8028 keys, 2405440 bytes
+2024/12/08-10:50:45.383 5 Generated table #998@0: 1015 keys, 1751360 bytes
+2024/12/08-10:50:45.383 5 Compacted 4@0 + 3@1 files => 6363171 bytes
+2024/12/08-10:50:45.385 5 compacted to: files[ 0 4 1 0 0 0 0 ]
+2024/12/08-10:50:45.385 5 Delete type=2 #983
+2024/12/08-10:50:45.385 5 Delete type=2 #984
+2024/12/08-10:50:45.386 5 Delete type=2 #985
+2024/12/08-10:50:45.386 5 Delete type=2 #988
+2024/12/08-10:50:45.386 5 Delete type=2 #990
+2024/12/08-10:50:45.386 5 Delete type=2 #992
+2024/12/08-10:50:45.386 5 Delete type=2 #995
+2024/12/08-11:10:25.007 5 Level-0 table #1000: started
+2024/12/08-11:10:25.008 5 Level-0 table #1000: 18075 bytes OK
+2024/12/08-11:10:25.010 5 Delete type=0 #994

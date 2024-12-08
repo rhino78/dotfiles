@@ -1,0 +1,7 @@
+2024/11/17-12:44:11.850 a03f5 Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_www.justanswer.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/17-12:44:11.850 a03f5 Recovering log #3
+2024/11/17-12:44:11.850 a03f5 Reusing old log /home/rhino/.config/chromium/Default/IndexedDB/https_www.justanswer.com_0.indexeddb.leveldb/000003.log 
+2024/11/17-17:16:15.254 a03f5 Level-0 table #5: started
+2024/11/17-17:16:15.255 a03f5 Level-0 table #5: 801 bytes OK
+2024/11/17-17:16:15.257 a03f5 Delete type=0 #3
+2024/11/17-17:16:15.257 a03f5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,3 @@
+2024/10/20-11:34:30.625 ec59 Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/20-11:34:30.626 ec59 Recovering log #3
+2024/10/20-11:34:30.628 ec59 Reusing old log /home/rhino/.config/chromium/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000003.log 

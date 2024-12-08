@@ -1,0 +1,33 @@
+2024/11/13-21:00:04.395 23779 Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/13-21:00:04.395 23779 Recovering log #7
+2024/11/13-21:00:04.395 23779 Reusing old log /home/rhino/.config/chromium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/000007.log 
+2024/11/13-21:00:04.482 2376d Level-0 table #11: started
+2024/11/13-21:00:04.483 2376d Level-0 table #11: 2037 bytes OK
+2024/11/13-21:00:04.485 2376d Delete type=0 #7
+2024/11/13-21:00:04.485 2376d Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 249 : 1
+2024/11/13-21:00:04.485 2376d Compacting 1@0 + 1@1 files
+2024/11/13-21:00:04.486 2376d Generated table #12@0: 109 keys, 2330 bytes
+2024/11/13-21:00:04.486 2376d Compacted 1@0 + 1@1 files => 2330 bytes
+2024/11/13-21:00:04.487 2376d compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/13-21:00:04.488 2376d Delete type=2 #11
+2024/11/13-21:00:04.488 2376d Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 249 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/13-21:00:08.374 2376d Level-0 table #14: started
+2024/11/13-21:00:08.375 2376d Level-0 table #14: 3393 bytes OK
+2024/11/13-21:00:08.377 2376d Delete type=2 #8
+2024/11/13-21:00:08.377 2376d Delete type=0 #10
+2024/11/13-21:00:08.377 2376d Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x03\x00\x00@\xedY\xcd\xd9A' @ 330 : 1
+2024/11/13-21:00:08.377 2376d Compacting 1@0 + 1@1 files
+2024/11/13-21:00:08.380 2376d Generated table #15@0: 121 keys, 2454 bytes
+2024/11/13-21:00:08.380 2376d Compacted 1@0 + 1@1 files => 2454 bytes
+2024/11/13-21:00:08.381 2376d compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/13-21:00:08.381 2376d Delete type=2 #12
+2024/11/13-21:00:08.381 2376d Delete type=2 #14
+2024/11/13-21:00:08.381 2376d Manual compaction at level-0 from '\x00\x04\x01\x02\x03\x00\x00@\xedY\xcd\xd9A' @ 330 : 1 .. (end); will stop at (end)
+2024/11/13-21:00:08.382 2376d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x03\x00\x00@\xedY\xcd\xd9A' @ 330 : 1
+2024/11/13-21:00:08.382 2376d Compacting 1@1 + 1@2 files
+2024/11/13-21:00:08.382 2376d Generated table #16@1: 53 keys, 1739 bytes
+2024/11/13-21:00:08.382 2376d Compacted 1@1 + 1@2 files => 1739 bytes
+2024/11/13-21:00:08.384 2376d compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/13-21:00:08.384 2376d Delete type=2 #5
+2024/11/13-21:00:08.384 2376d Delete type=2 #15
+2024/11/13-21:00:08.384 2376d Manual compaction at level-1 from '\x00\x04\x01\x02\x03\x00\x00@\xedY\xcd\xd9A' @ 330 : 1 .. (end); will stop at (end)

@@ -1,0 +1,13 @@
+2024/10/30-14:03:44.891 11a9ca Reusing MANIFEST /home/rhino/.config/chromium/Default/WebStorage/22/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/10/30-14:03:44.891 11a9ca Recovering log #6
+2024/10/30-14:03:44.891 11a9ca Reusing old log /home/rhino/.config/chromium/Default/WebStorage/22/IndexedDB/indexeddb.leveldb/000006.log 
+2024/10/30-14:03:50.635 11a9ca Level-0 table #10: started
+2024/10/30-14:03:50.636 11a9ca Level-0 table #10: 6007 bytes OK
+2024/10/30-14:03:50.638 11a9ca Delete type=0 #6
+2024/10/30-14:03:50.638 11a9ca Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1353 : 1
+2024/10/30-14:03:50.638 11a9ca Compacting 1@0 + 1@1 files
+2024/10/30-14:03:50.639 11a9ca Generated table #11@0: 300 keys, 3654 bytes
+2024/10/30-14:03:50.639 11a9ca Compacted 1@0 + 1@1 files => 3654 bytes
+2024/10/30-14:03:50.641 11a9ca compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/30-14:03:50.641 11a9ca Delete type=2 #10
+2024/10/30-14:03:50.641 11a9ca Manual compaction at level-0 from '\x00\x04\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1353 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

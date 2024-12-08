@@ -1,0 +1,3 @@
+2024/12/05-19:08:43.965 35401 Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_global.americanexpress.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/05-19:08:43.965 35401 Recovering log #3
+2024/12/05-19:08:43.966 35401 Reusing old log /home/rhino/.config/chromium/Default/IndexedDB/https_global.americanexpress.com_0.indexeddb.leveldb/000003.log 

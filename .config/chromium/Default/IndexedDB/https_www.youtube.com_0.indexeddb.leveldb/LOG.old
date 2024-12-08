@@ -1,0 +1,12 @@
+2024/12/07-23:13:45.914 5fd03 Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/07-23:13:45.914 5fd03 Recovering log #185
+2024/12/07-23:13:45.917 5fd03 Reusing old log /home/rhino/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000185.log 
+2024/12/07-23:14:16.760 5fd02 Level-0 table #190: started
+2024/12/07-23:14:16.778 5fd02 Level-0 table #190: 3029465 bytes OK
+2024/12/07-23:14:16.784 5fd02 Delete type=0 #185
+2024/12/07-23:14:25.653 5fd02 Compacting 1@1 + 1@2 files
+2024/12/07-23:14:25.657 5fd02 Generated table #191@1: 322 keys, 51652 bytes
+2024/12/07-23:14:25.658 5fd02 Compacted 1@1 + 1@2 files => 51652 bytes
+2024/12/07-23:14:25.660 5fd02 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/07-23:14:25.660 5fd02 Delete type=2 #187
+2024/12/07-23:14:25.660 5fd02 Delete type=2 #190

@@ -1,0 +1,6 @@
+2024/11/19-09:44:52.583 19dfe3 Creating DB /home/rhino/.config/chromium/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb since it was missing.
+2024/11/19-09:44:52.586 19dfe3 Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/19-09:45:02.068 19dfe3 Level-0 table #5: started
+2024/11/19-09:45:02.069 19dfe3 Level-0 table #5: 800 bytes OK
+2024/11/19-09:45:02.070 19dfe3 Delete type=0 #3
+2024/11/19-09:45:02.070 19dfe3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2024/11/05-21:17:35.706 21aad0 Creating DB /home/rhino/.config/chromium/Default/IndexedDB/https_www.businessinsider.com_0.indexeddb.leveldb since it was missing.
+2024/11/05-21:17:35.708 21aad0 Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_www.businessinsider.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/05-21:17:45.266 21aad0 Level-0 table #5: started
+2024/11/05-21:17:45.268 21aad0 Level-0 table #5: 9902 bytes OK
+2024/11/05-21:17:45.269 21aad0 Delete type=0 #3
+2024/11/05-21:17:45.269 21aad0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

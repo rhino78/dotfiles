@@ -1,0 +1,69 @@
+{
+   "checksum": "baac775635139034c9484f122c744fcc",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13373511010989078",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13373511809002228",
+            "date_last_used": "0",
+            "guid": "05b894cd-22df-4b06-94a6-174b30601792",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ShaveNAS Hub",
+            "type": "url",
+            "url": "http://192.168.2.85:5000/"
+         }, {
+            "date_added": "13373511815378118",
+            "date_last_used": "13373512335198897",
+            "guid": "a093fd17-fcad-4fc1-9dd9-35d0d2aac50c",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "UniFi Network",
+            "type": "url",
+            "url": "https://192.168.2.62:8443/manage/default/clients/properties/90:09:d0:19:07:83/overview"
+         }, {
+            "date_added": "13373515102780360",
+            "date_last_used": "0",
+            "guid": "19223eca-87dc-4d23-9dd0-6edee7e825b4",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "EdgeOS - EdgeRouter-4",
+            "type": "url",
+            "url": "https://192.168.2.1/#Dashboard"
+         } ],
+         "date_added": "13373511010989081",
+         "date_last_used": "0",
+         "date_modified": "13373515102780360",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13373511010989083",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,7 @@
+2024/10/21-11:18:48.779 10542 Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/21-11:18:48.779 10542 Recovering log #3
+2024/10/21-11:18:48.787 10542 Reusing old log /home/rhino/.config/chromium/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000003.log 
+2024/10/21-12:16:44.472 10543 Level-0 table #5: started
+2024/10/21-12:16:44.480 10543 Level-0 table #5: 2067552 bytes OK
+2024/10/21-12:16:44.482 10543 Delete type=0 #3
+2024/10/21-12:16:44.483 10543 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

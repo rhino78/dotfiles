@@ -1,0 +1,6 @@
+2024/11/11-16:58:47.015 2376d Creating DB /home/rhino/.config/chromium/Default/IndexedDB/https_www.webmd.com_0.indexeddb.leveldb since it was missing.
+2024/11/11-16:58:47.018 2376d Reusing MANIFEST /home/rhino/.config/chromium/Default/IndexedDB/https_www.webmd.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/11-16:58:50.347 2376e Level-0 table #5: started
+2024/11/11-16:58:50.348 2376e Level-0 table #5: 377 bytes OK
+2024/11/11-16:58:50.349 2376e Delete type=0 #3
+2024/11/11-16:58:50.349 2376e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
